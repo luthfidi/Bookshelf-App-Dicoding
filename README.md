@@ -1,4 +1,4 @@
-# Bookshelf App Starter Project
+# Bookshelf App Project
 
 Ini adalah starter project untuk siswa yang sedang mengerjakan tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula.
 
